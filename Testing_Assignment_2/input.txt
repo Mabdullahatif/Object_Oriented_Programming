@@ -1,0 +1,29 @@
+Arif
+12-A, Street 6, Lahore
+0301-1234567
+arif@example.com
+NUST
+Computer Science
+P
+Assistant Professor
+CPS,OOP,LA,CAL
+4,4,4,4
+4000
+2
+0
+Masters
+
+Arham
+45-B, Avenue 8, Karachi
+0312-9876543
+arham@example.com
+FAST
+Electrical Engineering
+V
+Lecturer
+DS,Algo,PF
+3,3,3
+2000
+1
+2
+Masters
